@@ -1,6 +1,7 @@
 *.py[cod]
 .ropeproject
 *.db
+bdmms.log
 
 # C extensions
 *.so
